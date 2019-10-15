@@ -1,0 +1,32 @@
+#head .tagline {
+    color: #333333;
+}
+
+#head {
+    position: relative;
+    z-index: 0;
+}
+
+#head:after{
+    position: absolute; content: ''; display: block; top: 0; left: 0; height: 100%; width: 100%;
+    background: rgba(239, 242, 234, 0.6);
+    mix-blend-mode: screen;
+    z-index: 1;
+}
+
+#head img, #head .title, #head .tagline {
+    position: relative;
+    z-index: 2;
+}
+
+.projects h3 {
+    text-transform: none;
+}
+
+.projects blockquote p {
+    font-size: 1rem;
+}
+
+.blog h3 {
+    text-transform: capitalize;
+}

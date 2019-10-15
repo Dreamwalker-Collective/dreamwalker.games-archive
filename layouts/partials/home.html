@@ -1,0 +1,25 @@
+<main id="main">
+
+	<div class="container">
+
+        {{ if .Site.Params.showSubheader }}
+            {{ partial "subheader.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showServices }}
+            {{ partial "projects.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showRecentWorks }}
+            {{ partial "recentworks.html" . }}
+        {{ end }}
+
+        {{ partial "blog.html" . }}
+
+        {{ if .Site.Params.showClients }}
+            {{ partial "clients.html" . }}
+        {{ end }}
+
+	</div>	<!-- /container -->
+
+</main>

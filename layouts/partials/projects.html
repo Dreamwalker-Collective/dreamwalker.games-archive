@@ -1,0 +1,28 @@
+<section class="row section featured topspace">
+
+    <h2 class="section-title"><span>Projects</span></h2>
+
+    <div class="projects">
+        {{ range where .Site.RegularPages "Section" "projects" }}
+            <div class="col-sm-6 col-md-6">
+                <h3 class="text-center">{{ .Title }}</h3>
+                <p>{{ .Summary }}</p>
+                <p class="text-center"><a href="{{ .Params.Project }}" target="_blank" class="btn btn-action">Project Page</a></p>
+                {{ if .Params.Downloads.Classic }}
+                <p class="text-center">
+                    <a href="{{ .Params.Downloads.Classic }}" class="btn btn-primary">Classic Download</a>
+                </p>
+                {{ end }}
+                {{ if .Params.Downloads.Retail }}
+                <p class="text-center">
+                    <a href="{{ .Params.Downloads.Retail }}" class="btn btn-primary">Retail Download</a>
+                </p>
+                {{ end }}
+                <p class="text-center">
+                    <a href="{{ .Params.Changelog }}">Changelog</a>
+                </p>
+                </div>
+        {{ end }}
+    </div>
+
+</section> <!-- / section -->

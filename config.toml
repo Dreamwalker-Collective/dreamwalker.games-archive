@@ -1,3 +1,43 @@
-baseURL = "http://example.org/"
+baseURL = "http://dreamwalker-collective.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dreamwalker Collective"
+theme = "hugo-initio"
+
+[blackfriday]
+    hrefTargetBlank = true
+
+[params]
+    name = "Dreamwalker Collective"
+    description = "Making Azeroth Better, One Gadget At A Time"
+    year = 2019
+    background = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownload = true
+    showClients = false
+
+    footerEnableContact = false
+    footerEnableFollowme = false
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+
+[[params.social]]
+    title = "github"
+    url = "https://github.com/dreamwalker-collective"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
