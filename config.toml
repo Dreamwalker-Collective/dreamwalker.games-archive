@@ -1,4 +1,4 @@
-baseURL = "//dreamwalker-collective.github.io/"
+baseURL = "https://dreamwalker-collective.github.io/"
 languageCode = "en-us"
 title = "Dreamwalker Collective"
 theme = "hugo-initio"
