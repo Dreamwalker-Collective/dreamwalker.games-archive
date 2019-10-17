@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dreamwalker Collective</title>
+    <link>https://dreamwalker-collective.github.io/post/</link>
+    <description>Recent content in Posts on Dreamwalker Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2019 19:04:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://dreamwalker-collective.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FactionFriend Reborn v1.0 Released!</title>
+      <link>https://dreamwalker-collective.github.io/post/2019-10-15-faction-friend-released/</link>
+      <pubDate>Tue, 15 Oct 2019 19:04:27 -0400</pubDate>
+      
+      <guid>https://dreamwalker-collective.github.io/post/2019-10-15-faction-friend-released/</guid>
+      <description>&lt;p&gt;We are proud to announce that FactionFriend Reborn is ready to assist you in all your Classic adventuring!&lt;/p&gt;
+
+&lt;p&gt;We are still working through little logic incongruities, as well as getting the code base updated to use more modern techniques, but it shouldn&amp;rsquo;t crash and burn.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
