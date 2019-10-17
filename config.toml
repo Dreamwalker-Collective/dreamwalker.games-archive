@@ -22,7 +22,7 @@ theme = "hugo-initio"
 
     footerEnableContact = false
     footerEnableFollowme = false
-    footerEnableTextWidget = false
+    footerEnableTextWidget = true
     footerEnableFormWidget = false
 
 [[menu.main]]
@@ -32,6 +32,11 @@ theme = "hugo-initio"
 [[menu.main]]
     name = "blog"
     url = "/post/"
+    weight = 5
+
+[[menu.foot]]
+    name = "I'm The Creator Of An Addon!"
+    url = "/addon-fostering/#what-is-abandonware" # This is hacky, need to adjust position some other way
     weight = 5
 
 [[params.social]]

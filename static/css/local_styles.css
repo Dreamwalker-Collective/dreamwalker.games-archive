@@ -30,3 +30,38 @@
 .blog h3 {
     text-transform: capitalize;
 }
+
+.footer-nav ul {
+    list-style: none;
+}
+
+.footer-nav li {
+    margin-bottom: .5rem;
+}
+
+/* Color Scheme */
+
+a {
+    color: #186d5d;
+}
+
+a:hover {
+    color: #0d4a41;
+}
+
+.btn-primary {
+    background: #0d4a41;
+}
+
+.btn-primary:hover {
+    background: #186d5d;
+}
+
+.btn-action:hover {
+    border-color: #186d5d;
+    color: #186d5d;
+}
+
+blockquote {
+    border-left-color: rgba(24,109,93,.15);
+}
