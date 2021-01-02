@@ -2,73 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dreamwalker Collective</title>
-    <link>https://dreamwalker-collective.github.io/</link>
+    <link>http://dreamwalker-collective.github.io/</link>
     <description>Recent content on Dreamwalker Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 19:04:27 -0400</lastBuildDate>
     
-	<atom:link href="https://dreamwalker-collective.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dreamwalker-collective.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Our Addon Fostering Process</title>
-      <link>https://dreamwalker-collective.github.io/addon-fostering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dreamwalker-collective.github.io/addon-fostering/</guid>
-      <description>We choose to take on the maintenance of an addon, because we find it particularly useful or we see it popular in the community, and there are no comparable alternatives, but the creator has stopped maintaining it. When the addon has gone un-updated for more than six months to a year, or across one or more major addon-breaking changes from the game publisher, then we look to take on its maintenance.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://dreamwalker-collective.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dreamwalker-collective.github.io/about/</guid>
-      <description>Making Azeroth Better, One Gadget At A Time Have you ever found yourself in need of that special thing to improve your quality of life as you traverse the vast expanses of Azeroth? Then you&amp;rsquo;ve come to the right place! Here at Dreamwalker Collective, we believe adventuring should be pleasant, and that the journey should be as enjoyable as the reward.
-Making Old Gadgets New Again We all have that one trusty, old gadget that we&amp;rsquo;ve had since the beginning of our adventures.</description>
-    </item>
-    
-    <item>
-      <title>Donate</title>
-      <link>https://dreamwalker-collective.github.io/support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dreamwalker-collective.github.io/support/</guid>
-      <description>We Maintain Our Gadgets In Our Spare Time. Help Us Have More Spare Time! We maintain our addons entirely during our spare time. Your donation or subscription allows us to not have to prioritize trading our time for rent money. As a result, we can spend more time working on the addons you love!
-Visit our Liberapay page, where you can set up a recurring donation, or our Ko Fi page, where you can make a one-time donation.</description>
-    </item>
-    
-    <item>
-      <title>FactionFriend Reborn v1.0 Released!</title>
-      <link>https://dreamwalker-collective.github.io/post/2019-10-15-faction-friend-released/</link>
-      <pubDate>Tue, 15 Oct 2019 19:04:27 -0400</pubDate>
-      
-      <guid>https://dreamwalker-collective.github.io/post/2019-10-15-faction-friend-released/</guid>
-      <description>&lt;p&gt;We are proud to announce that FactionFriend Reborn is ready to assist you in all your Classic adventuring!&lt;/p&gt;
-
-&lt;p&gt;We are still working through little logic incongruities, as well as getting the code base updated to use more modern techniques, but it shouldn&amp;rsquo;t crash and burn.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FactionFriend Reborn</title>
-      <link>https://dreamwalker-collective.github.io/projects/factionfriendreborn/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dreamwalker-collective.github.io/projects/factionfriendreborn/</guid>
-      <description>&lt;p&gt;Founded by a Druidic Ambassador, the Dreamwalker Collective knows the tremendous value of keeping track of where one stands with the numerous factions of Azeroth and beyond. Even from our earliest days, we were not long without &lt;a href=&#34;http://www.fizzwidget.com/factionfriend&#34; target=&#34;_blank&#34;&gt;FactionFriend&lt;/a&gt;, the faction managing gadget created by the wonderful little goblin, &lt;a href=&#34;http://www.fizzwidget.com&#34; target=&#34;_blank&#34;&gt;Gazmik Fizzwidget&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As he so aptly put it:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;It&amp;rsquo;s amazing the lengths some will go to to win friends. Gaining the trust of furbolg tribes, mushroom men, frost giants, and other organizations of demi-goblinoid races can be a lot of work, and it can be easy sometimes to lose track of one&amp;rsquo;s progress. That&amp;rsquo;s where Fizzwidget Industries comes in! Our newest gadget not only helps you keep tabs on whose respect you&amp;rsquo;re earning, but also how much more you could earn by turning in certain items you&amp;rsquo;re carrying.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Is it any wonder why we couldn&amp;rsquo;t just let it be relegated to a corner of his workshop, while he is off to someplace unknown, possibly never to return?&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ve picked up the mantle in his stead, keeping one of our most favorite gadgets in working order, and we hope that if &amp;ndash; &lt;em&gt;when&lt;/em&gt; &amp;ndash; he returns, he&amp;rsquo;ll appreciate the care we&amp;rsquo;ve taken of it in his absence.&lt;/p&gt;</description>
-    </item>
     
   </channel>
 </rss>
