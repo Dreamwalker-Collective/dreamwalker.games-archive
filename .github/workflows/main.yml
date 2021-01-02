@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches: [ source ]
-  workflow_dispatch: deploy
+  #workflow_dispatch: deploy
 
 jobs:
   build:
