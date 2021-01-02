@@ -18,9 +18,11 @@
                     <a href="{{ .Params.Downloads.Retail }}" class="btn btn-primary">Retail Download</a>
                 </p>
                 {{ end }}
+                {{ if .Params.Changelog }}
                 <p class="text-center">
                     <a href="{{ .Params.Changelog }}">Changelog</a>
                 </p>
+                {{ end }}
                 </div>
         {{ end }}
     </div>

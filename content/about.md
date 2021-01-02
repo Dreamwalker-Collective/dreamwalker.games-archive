@@ -5,9 +5,9 @@ type: "about"
 weight: 10
 ---
 
-## Making Azeroth Better, One Gadget At A Time
+## Making The Multiverse Better, One Gadget At A Time
 
-Have you ever found yourself in need of that special thing to improve your quality of life as you traverse the vast expanses of Azeroth? Then you've come to the right place! Here at Dreamwalker Collective, we believe adventuring _should_ be pleasant, and that the journey should be as enjoyable as the reward.
+Have you ever found yourself in need of that special thing to improve your quality of life as you traverse the vast expanses of Azeroth, the Multiverse, and beyond? Then you've come to the right place! Here at Dreamwalker Collective, we believe adventuring _should_ be pleasant, and that the journey should be as enjoyable as the reward.
 
 ## Making Old Gadgets New Again
 
@@ -15,4 +15,10 @@ We all have that one trusty, old gadget that we've had since the beginning of ou
 
 But sometimes, a gadget is so good, we just can't let it fade into the annals of history with its original maker. That's when the Dreamwalker Collective steps in. For a select few gadgets, we pick it up, brush off the rust, and give it the love and attention needed to make it like new again, paying tribute to its original creator.
 
-<a href="https://liberapay.com/Dreamwalker-Collective/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+## Recording Our Travels
+
+We at Dreamwalker Collective are, shall we say, _far traveled_. We've lost track of how many worlds we've visited. The Multiverse is expansive and we're always discovering new planes and the people that inhabit them.
+
+We feel that it's only fair that we share those discoveries.
+
+So we've created the [Tabletop Treasures](https://tabletop.dreamwalker.games) collection, filled with profiles of the people we've encountered, as well as gadgets, maps, and stories that we've brought back with us.

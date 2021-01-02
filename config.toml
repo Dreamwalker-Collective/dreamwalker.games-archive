@@ -1,4 +1,4 @@
-baseURL = "https://dreamwalker-collective.github.io/"
+baseURL = "https://dreamwalker.games/"
 languageCode = "en-us"
 title = "Dreamwalker Collective"
 theme = "hugo-initio"
@@ -8,8 +8,8 @@ theme = "hugo-initio"
 
 [params]
     name = "Dreamwalker Collective"
-    description = "Making Azeroth Better, One Gadget At A Time"
-    year = 2019
+    description = "Making The Multiverse Better, One Gadget At A Time"
+    year = 2021
     background = "images/bg_head.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
@@ -38,6 +38,13 @@ theme = "hugo-initio"
     name = "I'm The Creator Of An Addon!"
     url = "/addon-fostering/#what-is-abandonware" # This is hacky, need to adjust position some other way
     weight = 5
+[[menu.foot]]
+    name = "Subscribe via Liberapay"
+    url = "https://liberapay.com/Dreamwalker-Collective/donate"
+    weight = 1
+[[menu.foot]]
+    name = "Support Us on Ko-fi"
+    url = "https://ko-fi.com/R6R415TO2"
 
 [[params.social]]
     title = "github"
