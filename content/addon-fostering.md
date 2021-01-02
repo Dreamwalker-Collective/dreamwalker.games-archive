@@ -27,7 +27,7 @@ We consider this process "addon fostering," because when we choose to take on th
 
 ## Hey! I'm The Creator Of One Of The Projects You List!
 
-Great! We _want_ to hear from you! Seriously. We have no interest in depriving you of your project and would love to make explicit whatever relationship you chooose. Please <a href="mailto:dreamwalker@shaunagordon.com">drop us an email</a> so we can chat!
+Great! We _want_ to hear from you! Seriously. We have no interest in depriving you of your project and would love to make explicit whatever relationship you choose. Please <a href="mailto:dreamwalker@shaunagordon.com">drop us an email</a> so we can chat!
 
 ### What can you expect from a discussion with us?
 
