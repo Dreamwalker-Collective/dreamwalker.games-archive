@@ -1,0 +1,8 @@
+output
+
+__pycache__
+cache
+*.pid
+
+public
+!public/CNAME
