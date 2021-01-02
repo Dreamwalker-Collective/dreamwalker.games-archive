@@ -3,7 +3,6 @@ name: Deploy
 on:
   push:
     branches: [ source ]
-  #workflow_dispatch: deploy
 
 jobs:
   build:
@@ -12,8 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: 'recursive'
-      - uses: jakejarvis/hugo-build-action@master
+          submodules: true
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build
+        run: hugo --minify
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
