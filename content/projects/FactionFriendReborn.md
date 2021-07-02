@@ -4,7 +4,7 @@ date: 2019-10-15
 project: https://github.com/Dreamwalker-Collective/faction-friend
 changelog: https://github.com/Dreamwalker-Collective/faction-friend/releases/latest
 downloads:
-    classic: https://github.com/Dreamwalker-Collective/faction-friend/archive/refs/tags/v2.0.zip
+    classic: https://github.com/Dreamwalker-Collective/faction-friend/releases/latest/download/FactionFriend_Reborn-classic.zip
 ---
 
 Founded by a Druidic Ambassador, the Dreamwalker Collective knows the tremendous value of keeping track of where one stands with the numerous factions of Azeroth and beyond. Even from our earliest days, we were not long without [FactionFriend](http://www.fizzwidget.com/factionfriend), the faction managing gadget created by the wonderful little goblin, [Gazmik Fizzwidget](http://www.fizzwidget.com).
